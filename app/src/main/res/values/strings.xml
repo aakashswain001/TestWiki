@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestWiki</string>
+    <string name="hint">Type Here</string>
+</resources>
